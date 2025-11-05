@@ -1,0 +1,18 @@
+{
+    "name": "nasledie-app",
+    "private": true,
+    "scripts": {
+        "dev": "nuxt dev",
+        "build": "nuxt build",
+        "preview": "nuxt preview"
+    },
+    "dependencies": {
+        "@nuxtjs/tailwindcss": "^6.12.1",
+        "@pinia/nuxt": "^0.11.2",
+        "lucide-vue-next": "^0.323.0",
+        "pinia": "^3.0.3"
+    },
+    "devDependencies": {
+        "nuxt": "^3.13.2"
+    }
+}
